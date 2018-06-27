@@ -6,7 +6,7 @@ def speak_to_grandma(response)
      puts'I LOVE YOU TOO PUMPKIN!'
      
   elsif response== response.upcase
-     text = "NO, NOT SINCE 1938!" 
+     puts = "NO, NOT SINCE 1938!" 
 
   else
   text = "HUH?! SPEAK UP, SONNY!"
